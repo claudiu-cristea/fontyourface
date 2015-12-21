@@ -2,7 +2,8 @@
 
 ## Overview
 
-@font-your-face provides an administrative interface for browsing and applying web fonts (using CSS @font-face, supported in all popular browsers) from a variety of sources.
+@font-your-face provides an administrative interface for browsing
+and applying web fonts (using CSS @font-face, supported in all popular browsers) from a variety of sources.
 
 ## Features
 
